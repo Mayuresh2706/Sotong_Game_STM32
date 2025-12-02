@@ -1,0 +1,7 @@
+../Core/Src/oled_animations.c:11:6:oled_anim_init	1
+../Core/Src/oled_animations.c:17:13:start_animation	4
+../Core/Src/oled_animations.c:33:16:update_animation	6
+../Core/Src/oled_animations.c:67:5:oled_start_layout	8
+../Core/Src/oled_animations.c:108:6:oled_stop_current_layout	4
+../Core/Src/oled_animations.c:127:6:oled_anim_update	16
+../Core/Src/oled_animations.c:193:5:oled_is_layout_active	3

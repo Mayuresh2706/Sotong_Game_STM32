@@ -1,0 +1,22 @@
+# STM32 build files
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.o
+*.d
+*.map
+*.list
+*.log
+
+# IDE-specific
+.settings/
+.metadata/
+.vscode/
+*.launch
+*.dep
+
+# Misc
+*.swp
+*.tmp
