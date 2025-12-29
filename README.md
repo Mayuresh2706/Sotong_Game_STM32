@@ -5,12 +5,14 @@ The game uses accelerometer, gyroscope, magnetometer, pressure, humidity, and te
 
 
 Game Modes
-1) Red Light, Green Light
+1) Red Light, Green Light'
+
     Reads accelerometer & gyro to detect movement.
    
     Player is “caught” if motion exceeds thresholds during Red Light
 
-3) Catch and Run
+2) Catch and Run
+   
     Uses magnetometer readings.
    
     LED blinking speed adjusts based on magnetic magnitude.
